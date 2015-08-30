@@ -1,0 +1,29 @@
+{
+  "name": "pilar-is-a-pita",
+  "version": "0.0.0",
+  "authors": [
+    "Erik P. Hansen <eph@erikphansen.com>"
+  ],
+  "description": "seriously",
+  "keywords": [
+    "nada",
+    "keli",
+    "erik",
+    "pizza"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "bootstrap-sass-official#~3.3.5",
+    "font-awesome": "fontawesome#~4.4.0",
+    "gsap": "~1.17.0",
+    "jquery": "~2.1.4",
+    "scrollmagic": "~2.0.5"
+  }
+}
