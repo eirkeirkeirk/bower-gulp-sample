@@ -36,4 +36,4 @@ gulp.task('watch', function () {
   gulp.watch(config.sassPath + '/**/*.scss', ['css']);
 });
 
-gulp.task('default', ['bower', 'icons', 'css', 'watch']);
+gulp.task('default', ['bower', 'icons', 'css']);
